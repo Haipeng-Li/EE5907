@@ -1,2 +1,2 @@
 # EE5907
- NUS module 
+ NUS module： Pattern Recogniztion
